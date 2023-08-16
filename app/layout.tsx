@@ -1,4 +1,5 @@
 import Link from "next/link"
+import './global.css'
 
 export const metadata = {
   title: 'Next.js',
